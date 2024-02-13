@@ -3,7 +3,7 @@ const gymschema=new mongoose.Schema(
     {
         name:String,
         address:String,
-        Age:String,
+        age:String,
         date:String,
         weight:String
         
